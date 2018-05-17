@@ -1,1 +1,1 @@
-# MyApp
+## The description will be later, the project is under development...  :)
